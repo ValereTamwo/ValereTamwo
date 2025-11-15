@@ -1,8 +1,7 @@
 #  👋 Hi, I’m @ValereTamwo
-- 👀 I’m interested in Extending my web knowlegde , New Skills , and Practise Data Science Real World Project
-- 🌱 I’m currently learning DataScience and Machine learning with R and R-shiny also with Python
-- 💞️ I’m looking to collaborate on project 
-- 📫 How to reach me valeretamwo@gmail.com
+- 👀 I’m interested in Extending my  Skills
+- 🌱 I’m currently a junior researcher and Data Scientist 
+- 📫 How to reach out to me valeretamwo@gmail.com
 <img width="200" alt="DE Associate - badge" src="https://github.com/user-attachments/assets/f0ccd809-200c-4d4a-be50-50c4e47efe0d" />
 
 <!---
